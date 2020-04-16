@@ -2,3 +2,8 @@ body{
     font-family: 'Comic Neue';
     padding: 15px 60px;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
